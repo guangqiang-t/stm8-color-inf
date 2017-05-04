@@ -1,0 +1,16 @@
+Thu May 04 16:47:11 2017: Log started
+Thu May 04 16:47:13 2017: DiGdiOpen(VersionH = 294, VersionL = 294, Parameters = -stlink3 -mcuname STM8S208C8)
+Thu May 04 16:47:13 2017: DiGdiInitIO(DeviceFile = usb://usb)
+Thu May 04 16:47:13 2017: DiGdiVersion()
+Thu May 04 16:47:13 2017: DiGdiGetFeatures()
+Thu May 04 16:48:38 2017: DiGdiInitRegisterMap()
+Thu May 04 16:48:38 2017: DiGdiSetConfig(Mcu = STM8S208C8)
+Thu May 04 16:48:38 2017: Failed to set configuration with MCU name STM8S208C8: SWIM error [30006]: Comm init error: chip does not answer
+Thu May 04 16:48:38 2017: DiGdiClose()
+Thu May 04 16:48:50 2017: DiGdiOpen(VersionH = 294, VersionL = 294, Parameters = -stlink3 -mcuname STM8S208C8)
+Thu May 04 16:48:50 2017: DiGdiInitIO(DeviceFile = usb://usb)
+Thu May 04 16:48:50 2017: DiGdiVersion()
+Thu May 04 16:48:50 2017: DiGdiGetFeatures()
+Thu May 04 16:48:50 2017: DiGdiInitRegisterMap()
+Thu May 04 16:48:50 2017: DiGdiSetConfig(Mcu = STM8S208C8)
+Thu May 04 16:48:51 2017: Errors while setting configuration with MCU name STM8S208C8: gdi-error [40301]: The Flash Memory Read-out protection option must be disabled for debug. Disabling this option will first erase the whole Flash Memory.
