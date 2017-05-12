@@ -34,6 +34,7 @@ void led_on(uint8_t index)
 	}
 	default:break;
   }
+  //printf("led1 is on \r\n");
 }
 
 
